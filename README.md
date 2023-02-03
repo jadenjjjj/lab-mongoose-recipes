@@ -69,7 +69,7 @@ mongoose
 
 
 
-Then, you should add a new recipe document to the database by calling the [`Model.create`](https://mongoosejs.com/docs/api.html#model_Model.create) method and passing it the recipe details as an object. After inserting the recipe, you should `console.log` the `title` of the recipe.
+Then, you should add a new recipe document the database by calling the [`Model.create`](https://mongoosejs.com/docs/api.html#model_Model.create) method and passing it the recipe details as an object. After inserting the recipe, you should `console.log` the `title` of the recipe.
 
 You can use MongoDB Compass to double-check that everything is working as intended.
 
